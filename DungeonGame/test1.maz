@@ -1,0 +1,23 @@
+4
+vacuum scatter stone
+fire weaken 20 jacket
+blackhole warp 2 antimatter
+spikes weaken 50 shield
+4 3
+Outside
+none
+shield stone
+Basement
+spikes
+jacket
+Bedroom
+fire
+jacket
+LivingRoom
+blackhole
+jacket shield antimatter
+4
+Hall 0 1
+Tunnel 1 2
+Road 2 0 3
+Cave 0 2 3
