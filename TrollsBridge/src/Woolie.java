@@ -56,7 +56,7 @@ public class Woolie extends Thread {
 	}
 	
 	/**
-	 * CThe run method handles a Woolie's behavior as it crosses the bridge. 
+	 * Run method handles a Woolie's behavior as it crosses the bridge. 
 	 * The well-behaved Woolie asks the troll at the bridge to cross. 
 	 * While it is crossing the bridge, it reports its progress each second as it works its way across, 
 	 * and the woolie lastly tells the troll that it has gotten off the bridge.
